@@ -4,7 +4,7 @@
 
 ## Description
   
-a demo of the the README generator
+a demo of the readme generator project
   
 ## Table of Contents
   
@@ -19,11 +19,11 @@ a demo of the the README generator
   
 ## Installation
       
-download and run in node(demo only)
+download and run in node
   
 ## Usage
   
-see installation(demo only)
+see install (for demo only)
   
 ## License
   

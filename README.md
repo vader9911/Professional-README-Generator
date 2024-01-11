@@ -30,7 +30,7 @@ This is a simple Node.js application that generates a README.md file based on us
 5. Answer the prompted questions to provide information about your project.
 6. The generated README.md file will be saved in the project directory.
 
-A brief walkthrough video can be found [Here]()
+A brief walkthrough video can be found [Here](https://drive.google.com/file/d/1GiJN8LMrSP5cqHsyxNgP7jt1oy0Dkn9k/view)
 
 ## License
 

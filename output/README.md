@@ -1,10 +1,10 @@
-# 
+# Readme generator demo
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
   
-
+a demo of the the README generator
   
 ## Table of Contents
   
@@ -19,11 +19,11 @@
   
 ## Installation
       
-
+download and run in node(demo only)
   
 ## Usage
   
-
+see installation(demo only)
   
 ## License
   
@@ -31,11 +31,11 @@ This application is covered under the [MIT License](https://opensource.org/licen
   
 ## Contributing
   
-
+any contributions welcome
   
 ## Tests
   
-
+none at this time
   
 ## Questions
 

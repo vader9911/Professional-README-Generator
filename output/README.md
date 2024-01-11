@@ -1,10 +1,10 @@
 # undefined
 
-![License](https://img.shields.io/badge/License-Other-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
   
-
+a test of the readme generator project
   
 ## Table of Contents
   
@@ -19,25 +19,25 @@
   
 ## Installation
       
-
+run in node and refer to project's README
   
 ## Usage
   
-
+see installation
   
 ## License
   
-No license information available.
+This application is covered under the [MIT License](https://opensource.org/licenses/MIT).
   
 ## Contributing
   
-
+ANY
   
 ## Tests
   
-
+no tests at this time
   
 ## Questions
 
-If you have any questions or need further assistance, feel free to [contact me on GitHub]().
+If you have any questions or need further assistance, feel free to [contact me on GitHub](vader9911).
           

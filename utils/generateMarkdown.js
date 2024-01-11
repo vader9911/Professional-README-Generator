@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   const licenseBadge = renderLicenseBadge(data.license);
   const licenseSection = renderLicenseSection(data.license);
 
-  return `# ${data.title}
+  return `# ${data.Title}
 
 ${licenseBadge}
 

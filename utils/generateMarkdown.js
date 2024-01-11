@@ -83,7 +83,7 @@ ${data.Tests}
   
 ## Questions
 
-If you have any questions or need further assistance, feel free to [contact me on GitHub](${data.github}).
+If you have any questions or need further assistance, feel free to [contact me on GitHub](${data.Questions}).
           
 `}
 
